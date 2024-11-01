@@ -1,0 +1,20 @@
+---
+layout: archive
+title: "Teaching"
+permalink: /teachings/
+author_profile: true
+---
+
+{% include base_path %}
+
+{% assign total_posts = site.teaching | size %}
+{% assign counter = 0 %}
+
+{% for post in site.teaching reversed %}
+  {% assign counter = counter | plus: 1 %}
+  {% if counter == total_posts %}
+    {% include archive-single-teaching.html %}
+  {% else %}
+    {% include archive-single.html %}
+  {% endif %}
+{% endfor %}
