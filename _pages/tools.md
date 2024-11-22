@@ -29,7 +29,7 @@ A tool leveraging large language models to learn the "syntax" of species assembl
 ======
 <div style="text-align: center;">
     <a href="https://github.com/cesar-leblanc/hdm-framework">
-        <img src="../images/hdm-framework-logo.png" alt="hdm-framework" width="100"/>
+        <img src="../images/hdm-framework-logo.png" alt="hdm-framework" width="200"/>
     </a>
 </div>
 
