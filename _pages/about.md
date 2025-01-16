@@ -40,7 +40,7 @@ My two favorite "sports" seem far apart but are in fact very close: boxing and c
 I like to go hiking, alone or with others, and use Pl@ntNet when I see beautiful plants on the way (very corporate-friendly!). 🌱  
 I'm trying as much as I can to be green and make a change at my scale (not eating meat/fish, not using planes/cars, buying used/secondhand goods). ♻️  
 I'm currently learning Italian (a lot) and Spanish (a bit) and I want to start Arabic soon (because why not!). 🗣️  
-I recently got back into reading after a (way too long) break, and I'm rediscorvering the joy of being immersed in books (I want to build a big bookcase with all the books from *Editions Divergences*!). 📚  
+I recently got back into reading after a (way too long) break, and I'm rediscovering the joy of being immersed in books (I want to build a big bookcase with all the books from *Editions Divergences*!). 📚  
 I'm politically active, keeping up with local, national, and global changes and trying to be involved in the creation of a better world for all (I know this isn't the best place to talk about this, but it's an important part of my life, and if you read this page and/or know me personally, you already know what my values are, so respect existence or expect resistance!). 🏴  
 
 ![Hike](/images/hike.jpg)
