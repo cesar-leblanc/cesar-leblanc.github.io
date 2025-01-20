@@ -23,7 +23,7 @@ In particular, I am focusing on the three following points:
 3. using the predicted species to map and monitor European habitats, while providing biodiversity indicators (work in progress)
 
 In addition to the papers and frameworks mentioned above, the main results of the PhD can directly be observed on the [GeoPl@ntNet platform](https://maps.plantnet.org/viewer/).  
-Since the beginning of the PhD in 2022, my results have been published in 11 articles or papers, presented in 4 conferences or congresses, and introduced in 4 seminars or talks.
+Since the beginning of the PhD in 2022, my results have been published in 12 articles or papers, presented in 4 conferences or congresses, and introduced in 4 seminars or talks.
 
 ![IBC](/images/ibc.jpg)
 *Me presenting GeoPl@ntBERT in Madrid during the XX International Botanical Congress*
