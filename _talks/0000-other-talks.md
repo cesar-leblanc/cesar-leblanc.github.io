@@ -5,7 +5,7 @@ locations:
   - "Montpellier, France"
 ---
 
-In addition to the main talks, I also had the opportunity to present my work in smaller events of national scale.  
+In addition to the main conferences and congresses, I also had the opportunity to present my work in smaller talks and seminars.  
 Here is a list of some of them:
 - [AMAP Seminar](https://amap.cirad.fr/fr/agenda.php) (Montpellier, 30/03/2023)
 - [AMAPhD](https://amap.cirad.fr/fr/amaphd.php) (Montpellier, 24/11/2023) 
