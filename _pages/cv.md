@@ -20,7 +20,7 @@ Work experience
 ======
 * April 2022 - October 2022: **Data Scientist**
   * *Inria*
-  * Duties includes: working on species distribution modeling, writing a Working Note and a bibliography, participating in a competition, defining new state-of-the-art methods
+  * Duties included: working on species distribution modeling, writing a Working Note and a bibliography, participating in a competition, defining new state-of-the-art methods
   * Supervisor: Alexis Joly
 
 * April 2021 - September 2021: **Data Analyst**
