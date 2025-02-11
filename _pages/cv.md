@@ -30,7 +30,7 @@ Work experience
 
 * September 2020 - April 2021: **Data Science Researcher**
   * *DeVinci Research Center*
-  * Duties included: Writing a scientific paper on my use of machine and deep learning techniques (e.g., NLP, OCR, object detection) and algorithms (e.g., k-NN, SVM, gradient boosting)
+  * Duties included: writing a scientific paper on my use of machine and deep learning techniques (e.g., NLP, OCR, object detection) and algorithms (e.g., k-NN, SVM, gradient boosting)
   * Supervisor: Christophe Rodrigues
   
 Skills
