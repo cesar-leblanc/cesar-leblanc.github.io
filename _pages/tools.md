@@ -6,10 +6,10 @@ author_profile: true
 
 This is a list of Open Source tools that were developed, are being developed or will be developed partially or entirely by me during my PhD within the [Pl@ntNet](https://plantnet.org/) team.
 
-[GeoPl@ntNet](https://maps.plantnet.org/viewer/)
+[GeoPl@ntNet](https://geo.plantnet.org/)
 ======
 <div style="text-align: center;">
-    <a href="https://maps.plantnet.org/viewer/">
+    <a href="https://geo.plantnet.org/">
         <img src="../images/geoplantnet-logo.png" alt="geoplantnet" width="300"/>
     </a>
 </div>
