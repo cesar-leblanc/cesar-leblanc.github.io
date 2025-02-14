@@ -23,5 +23,20 @@ var addressPoints = [
     "Montpellier, France",
     43.6112422,
     3.8767337
+  ],
+  [
+    "Brussels, Belgium",
+    50.8465573,
+    4.351697
+  ],
+  [
+    "Porto, Portugal",
+    41.1494512,
+    -8.6107884
+  ],
+  [
+    "Leipzig, Germany",
+    51.3406321,
+    12.3747329
   ]
 ];
