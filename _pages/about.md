@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-My name is César Leblanc, I am 25 years old and I am a third year PhD student at [Inria](https://inria.fr) and [University of Montpellier](https://www.umontpellier.fr/) working on artificial intelligence and biodiversity within the [Pl@ntNet](https://plantnet.org/) team.  
+My name is César Leblanc, I am 26 years old and I am a third year PhD student at [Inria](https://inria.fr) and [University of Montpellier](https://www.umontpellier.fr/) working on artificial intelligence and biodiversity within the [Pl@ntNet](https://plantnet.org/) team.  
 For my work, I have a strong interest in applied machine/deep learning, programming in Python, and reproducible research and open science.  
 Other personal interests include but are not limited to plants (especially trying to keep mine alive), cinema (mostly silent black and white Hungarian independent movies from the 1930s that last 5 hours), and music (pretending to listen to everything but in reality having almost only playlists made entirely of French rap).
 
