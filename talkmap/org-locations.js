@@ -1,5 +1,10 @@
 var addressPoints = [
   [
+    "Lucca, Italy",
+    44.017763900000006,
+    10.454430026192636
+  ],
+  [
     "Glasgow, United Kingdom",
     55.861155,
     -4.2501687
