@@ -6,6 +6,7 @@ locations:
   - "Brussels, Belgium"
   - "Porto, Portugal"
   - "Leipzig, Germany"
+  - "Grenoble, France"
   - "Halle, Germany"
 ---
 
@@ -18,4 +19,5 @@ Here is a list of some of them:
 - [HPDaSc Workshop](https://team.inria.fr/zenith/hpdasc-workshop-on-data-driven-science/) (Montpellier, 31/05/2024)
 - [DeepLearn 2024](https://deeplearn.irdta.eu/2024/) (Porto, 19/07/2024)
 - [MAMBO AGM 2024](https://www.mambo-project.eu/events) (Leipzig, 19/09/2024)
+- [Workshop LECA](https://leca.osug.fr/-seminaires-) (Grenoble, 18/03/2025)
 - [sPlot Workshop](https://idiv-biodiversity.de/en/splot/default-a0c59927df.html) (Halle, 31/03/2025)
