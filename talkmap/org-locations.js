@@ -50,6 +50,11 @@ var addressPoints = [
     12.3747329
   ],
   [
+    "Grenoble, France",
+    45.1875602,
+    5.7357819
+  ],
+  [
     "Halle, Germany",
     51.4825041,
     11.9705452
