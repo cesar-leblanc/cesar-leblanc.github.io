@@ -20,4 +20,5 @@ Here is a list of some of them:
 - [DeepLearn 2024](https://deeplearn.irdta.eu/2024/) (Porto, 19/07/2024)
 - [MAMBO AGM 2024](https://www.mambo-project.eu/events) (Leipzig, 19/09/2024)
 - [Workshop LECA](https://leca.osug.fr/-seminaires-) (Grenoble, 18/03/2025)
+- [PhD seminar](https://phd-seminars-sam.inria.fr/) (Montpellier, 21/03/2025)
 - [sPlot Workshop](https://idiv-biodiversity.de/en/splot/default-a0c59927df.html) (Halle, 31/03/2025)
