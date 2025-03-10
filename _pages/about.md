@@ -19,7 +19,7 @@ My research leverages both computer vision (convolutional neural networks) and n
 In particular, I am focusing on the three following points:
 
 1. training and evaluating deep learning algorithms for the (very) high resolution mapping of species (see [framework](https://github.com/plantnet/malpolon) and [paper](https://ceur-ws.org/Vol-3180/paper-169.pdf))
-2. creating a foundation model capable of getting a syntaxic understanding of plant species assemblages (see [framework](https://github.com/cesar-leblanc/plantbert) and [paper](https://arxiv.org/))
+2. creating a foundation model capable of getting a syntaxic understanding of plant species patterns (see [framework](https://github.com/cesar-leblanc/plantbert) and [paper](https://arxiv.org/))
 3. using predicted species assemblages to map and monitor European habitats, while providing biodiversity indicators (work in progress)
 
 In addition to the papers and frameworks mentioned above, the main results of the PhD can directly be observed on the [GeoPl@ntNet platform](https://geo.plantnet.org).  
