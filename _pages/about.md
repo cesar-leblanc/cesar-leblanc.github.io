@@ -22,6 +22,7 @@ In particular, I am focusing on the three following points:
 2. leveraging new approaches to accurately identify habitat types based solely on species composition (see [framework](https://github.com/cesar-leblanc/hdm-framework) and [paper](https://onlinelibrary.wiley.com/doi/10.1111/avsc.12802))
 3. creating a foundation model capable of getting a syntaxic understanding of plant species patterns (see [framework](https://github.com/cesar-leblanc/plantbert) and [paper](https://arxiv.org/))
 4. using predicted species assemblages to map and monitor European habitats, while providing biodiversity indicators (work in progress)
+5. hosting open machine learning challenges that aim to predict species in a given location and time (see [framework](https://github.com/plantnet/GeoLifeCLEF) and [paper](https://hal.inrae.fr/hal-04720817v1/file/Picek_etal_CEUR-Workshop-Proceedings-3740.pdf))
 
 In addition to the papers and frameworks mentioned above, the main results of the PhD can directly be observed on the [GeoPl@ntNet platform](https://geo.plantnet.org).  
 Since the beginning of the PhD in 2022, my results have been published in 13 articles or papers, presented in 6 conferences or congresses, and introduced in 10 seminars or talks.
