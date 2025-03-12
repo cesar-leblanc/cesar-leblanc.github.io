@@ -16,7 +16,7 @@ PhD
 My PhD is entitled "Predicting future biodiversity trajectories using machine learning".  
 The goal of my work is to combine multiple sources (e.g., species observations, satellite images, and environmental rasters) to predict plant assemblages in a given location and time, and then derive habitat types and several biodiversity indicators (e.g., species richness, presence of invasive or threatened species, and ecosystem health indicators).  
 My research leverages both computer vision (convolutional neural networks) and natural language processing (transformers) to integrate multiple biodiversity data streams.  
-In particular, I am focusing on the three following points:
+In particular, I am focusing on the five following points:
 
 1. training and evaluating deep learning algorithms for the (very) high resolution mapping of species (see [framework](https://github.com/plantnet/malpolon) and [paper](https://ceur-ws.org/Vol-3180/paper-169.pdf))
 2. leveraging new approaches to accurately identify habitat types based solely on species composition (see [framework](https://github.com/cesar-leblanc/hdm-framework) and [paper](https://onlinelibrary.wiley.com/doi/10.1111/avsc.12802))
