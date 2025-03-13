@@ -13,6 +13,7 @@ Education
 ======
 * **Ph.D.** in Artificial Intelligence and Biodiversity, *University of Montpellier*, 2022-2025 (expected)
 * **Master's degree** in Data Science, *Polytechnic Institute of Paris*, 2021-2022
+* **Exchange program** in Mathematics, *University of California Riverside*, Fall 2019
 * **Engineer's degree** in AI, *LDV Graduate School of Engineering*, 2017-2022
 * **Manager's degree** in Digital Marketing, *LDV Management School*, 2017-2022
 
