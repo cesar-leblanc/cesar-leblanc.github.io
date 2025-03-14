@@ -89,6 +89,7 @@ Awards
 ======
 * **Most deserving student** - *Mayor of Paris*
 * **Highest Honors** - *Engineering School*
+* **Excellent student** - *Research university*
 * **Best monitoring and modelling team** - *B-Cubed Hackathon*
 * **Best project (for "Talking glove")** - *Veolia*
 * **Multiple data science competition 1st places** - *Kaggle*
