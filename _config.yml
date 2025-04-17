@@ -37,7 +37,7 @@ author:
   orcid            : "https://orcid.org/0000-0002-5682-8179"
   semantic         : # URL
   pubmed           : # URL
-  researchgate     : # "https://www.researchgate.net/profile/Cesar-Leblanc"
+  researchgate     : "https://www.researchgate.net/profile/Cesar-Leblanc"
   scopus           : # URL
 
   # Repositories and software development
