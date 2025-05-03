@@ -25,7 +25,7 @@ In particular, I am focusing on the five following points:
 5. hosting open machine learning challenges that aim to predict species in a given location and time (see [framework](https://github.com/plantnet/GeoLifeCLEF) and [paper](https://hal.inrae.fr/hal-04720817v1/file/Picek_etal_CEUR-Workshop-Proceedings-3740.pdf))
 
 In addition to the papers and frameworks mentioned above, the main results of the PhD can directly be observed on the [GeoPl@ntNet platform](https://geo.plantnet.org).  
-Since the beginning of the PhD in 2022, my results have been published in 13 articles or papers, presented in 6 conferences or congresses, introduced in 10 seminars or workshops, implemented in 5 frameworks or softwares, and popularized in 1 post or entry.
+Since the beginning of the PhD in 2022, my results have been published in 14 articles or papers, presented in 6 conferences or congresses, introduced in 10 seminars or workshops, implemented in 5 frameworks or softwares, and popularized in 1 post or entry.
 
 ![IBC](/images/ibc.jpg)
 *Me presenting GeoPl@ntBERT in Madrid during the XX International Botanical Congress*
