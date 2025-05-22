@@ -24,3 +24,4 @@ Here is a list of some of them:
 - [PhD seminar](https://phd-seminars-sam.inria.fr/) (Montpellier, 21/03/2025)
 - [sPlot Workshop](https://idiv-biodiversity.de/en/splot/default-a0c59927df.html) (Halle, 31/03/2025)
 - [IBENS seminar](https://www.ibens.bio.ens.psl.eu/spip.php?article172&lang=en) (Paris, 17/04/2025)
+- [CVPR@Paris 2025](https://cvprinparis.github.io/CVPR2025InParis/) (Paris, 06/06/2025)
