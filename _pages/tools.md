@@ -4,7 +4,7 @@ title: "Tools"
 author_profile: true
 ---
 
-This is an unexhaustive list of Open Source tools that were developed, are being developed or will be developed partially or entirely by me during my PhD within the [Pl@ntNet](https://plantnet.org/) team.
+This is an unexhaustive list of Open Source tools that were developed, are being developed or will be developed partially or entirely by me during my PhD within the [Pl@ntNet](https://plantnet.org/) team (you can find the complete list on [my GitHub profile](https://github.com/cesar-leblanc/)).
 
 [GeoPl@ntNet](https://geo.plantnet.org/)
 ======
