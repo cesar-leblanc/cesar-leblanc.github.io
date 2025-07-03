@@ -9,6 +9,7 @@ locations:
   - "Grenoble, France"
   - "Halle, Germany"
   - "Paris, France"
+  - "Udine, Italy"
 ---
 
 In addition to the main conferences and congresses, I also had the opportunity to present my work in smaller talks and seminars.  
@@ -26,3 +27,4 @@ Here is a list of some of them:
 - [IBENS seminar](https://www.ibens.bio.ens.psl.eu/spip.php?article172&lang=en) (Paris, 17/04/2025)
 - [CVPR@Paris 2025](https://cvprinparis.github.io/CVPR2025InParis/) (Paris, 06/06/2025)
 - [DeepSDM 2025](https://plantnet.org/deepsdm-2025/) (Montpellier, 14/05/2025)
+- [AI-DLDA 2025](https://www.aidlda.it/) (Udine, 03/07/2025)
