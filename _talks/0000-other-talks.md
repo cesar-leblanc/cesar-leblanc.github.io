@@ -10,6 +10,7 @@ locations:
   - "Halle, Germany"
   - "Paris, France"
   - "Udine, Italy"
+  - "Leiden, Netherlands"
 ---
 
 In addition to the main conferences and congresses, I also had the opportunity to present my work in smaller talks and seminars.  
@@ -28,3 +29,4 @@ Here is a list of some of them:
 - [CVPR@Paris 2025](https://cvprinparis.github.io/CVPR2025InParis/) (Paris, 06/06/2025)
 - [DeepSDM 2025](https://plantnet.org/deepsdm-2025/) (Montpellier, 14/05/2025)
 - [AI-DLDA 2025](https://www.aidlda.it/) (Udine, 03/07/2025)
+- [MAMBO AGM 2025](https://www.mambo-project.eu/events) (Leiden, 10/09/2025)
