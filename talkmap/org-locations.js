@@ -68,5 +68,10 @@ var addressPoints = [
     "Udine, Italy",
     46.0634632,
     13.2358377
+  ],
+  [
+    "Leiden, Netherlands",
+    52.1594747,
+    4.4908843
   ]
 ];
