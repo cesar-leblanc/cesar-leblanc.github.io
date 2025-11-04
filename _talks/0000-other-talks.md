@@ -30,3 +30,4 @@ Here is a list of some of them:
 - [CVPR@Paris 2025](https://cvprinparis.github.io/CVPR2025InParis/) (Paris, 06/06/2025)
 - [AI-DLDA 2025](https://www.aidlda.it/) (Udine, 03/07/2025)
 - [MAMBO AGM 2025](https://www.mambo-project.eu/events) (Leiden, 10/09/2025)
+- [Biodiversity and AI prospective](https://prospectivebia.sciencesconf.org/) (Paris, 13/10/2025)
