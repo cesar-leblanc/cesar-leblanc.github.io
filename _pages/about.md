@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "César Leblanc: Artificial Intelligence and Biodiversity"
+title: "César Leblanc: Artificial Intelligence and Biodiversity Modeling"
 author_profile: true
 redirect_from: 
   - /about/
