@@ -1,8 +1,18 @@
 var addressPoints = [
   [
+    "Uppsala, Sweden",
+    59.8586126,
+    17.6387436
+  ],
+  [
     "Lucca, Italy",
     44.0177639,
     10.45443
+  ],
+  [
+    "Bologna, Italy",
+    44.4938203,
+    11.3426327
   ],
   [
     "Glasgow, United Kingdom",
@@ -11,13 +21,8 @@ var addressPoints = [
   ],
   [
     "Liverpool, United Kingdom",
-    53.4071991,
-    -2.99168
-  ],
-  [
-    "Bologna, Italy",
-    44.4938203,
-    11.3426327
+    53.3933411,
+    -2.9166389
   ],
   [
     "Rome, Italy",
@@ -26,8 +31,8 @@ var addressPoints = [
   ],
   [
     "Madrid, Spain",
-    40.4167047,
-    -3.7035825
+    40.416782,
+    -3.703507
   ],
   [
     "Montpellier, France",
@@ -36,8 +41,8 @@ var addressPoints = [
   ],
   [
     "Brussels, Belgium",
-    50.8465573,
-    4.351697
+    50.8467372,
+    4.352493
   ],
   [
     "Porto, Portugal",
